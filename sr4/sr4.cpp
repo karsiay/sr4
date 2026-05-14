@@ -3,7 +3,7 @@ using namespace std;
 
 int main() 
 {
-    bool A, B;
+    bool A, B
     cout << "Input two boolean values (0 or 1): ";
     cin >> A >> B;
     
